@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-circadian-lux-melatonin-onset-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Circadian Lux Melatonin Onset - Zero-dependency photic retinal lux integral modeler, Khalsa human phase response curve (PRC), and Dim Light Melatonin Onset (DLMO) blue-light attenuation scheduler.",
+  "tools": [
+    "calculate_cumulative_photic_lux_dose",
+    "predict_dim_light_melatonin_onset",
+    "recommend_digital_sunset_schedule"
+  ]
+}
